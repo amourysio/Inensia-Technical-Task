@@ -1,0 +1,16 @@
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.exe
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.deps.json
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.runtimeconfig.json
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.runtimeconfig.dev.json
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.dll
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.pdb
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.csproj.AssemblyReference.cache
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.AssemblyInfoInputs.cache
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.AssemblyInfo.cs
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.csproj.CoreCompileInputs.cache
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.csproj.CopyComplete
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.dll
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.pdb
+C:\Users\AllBlacks\source\repos\TechnicalTask\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.genruntimeconfig.cache
